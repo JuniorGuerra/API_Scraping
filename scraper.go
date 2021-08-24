@@ -2,6 +2,7 @@ package main
 
 import (
 	"io"
+
 	"golang.org/x/net/html"
 )
 
